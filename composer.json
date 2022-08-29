@@ -32,11 +32,11 @@
             "package": {
                 "name": "cu-uis/cu_base",
                 "type": "drupal-custom-theme",
-                "version": "1.0.4",
+                "version": "1.0.6",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/cu-uis/cu_base.git",
-                    "reference": "1.0.4"
+                    "reference": "1.0.6"
                 }
             }
         }
